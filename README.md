@@ -21,7 +21,11 @@ Thrilled to have you join our **fully-remote internship** program.
 - 🕤 **9:30 AM – Stand-up:** Share your daily goals  
 - 📚 **Self-paced learning & tasks:** Work on videos/assignments and update tracker by **1 PM** and **EOD**  
 - 🕕 **6:00 PM – Review call:** Discuss progress, blockers & burndown chart  
-- 🔗 **Learning Resources:** [Google Colab Notebook](https://colab.research.google.com/drive/1BMlc3HqzKBf207Qjf8x84i1NPPQ1BZLq?authuser=1#scrollTo=JY6Opfu7NuSs)  
+- 🔗 **Learning Resources:** [Google Colab Notebook](https://colab.research.google.com/drive/1BMlc3HqzKBf207Qjf8x84i1NPPQ1BZLq?authuser=1#scrollTo=JY6Opfu7NuSs)
+- --Day 1 
+- 🔗 **Learning Resources:** [FLOATS and APPROXIMATION METHODS] (https://www.youtube.com/watch?v=PJ_5VNvJGtA&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=6)
+- 🔗 **Learning Resources:** [BISECTION SEARCH] (https://www.youtube.com/watch?v=PJ_5VNvJGtA&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=6)
+
 
 ---
 
