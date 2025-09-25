@@ -16,7 +16,7 @@ Thrilled to have you join our **fully-remote internship** program.
 ##--Day 2 
 - 🔗 **Learning Resources:** [DECOMPOSITION, ABSTRACTION, FUNCTIONS](https://www.youtube.com/watch?v=Qf6OVR8MLnU&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=7)
 - 🔗 **Learning Resources:** [DICTIONARIES](https://www.youtube.com/watch?v=lTgLOuaQsvk&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=14)
-
+- 🔗 **Learning Resources:** [Key Terminologies in Startup](https://www.youtube.com/watch?v=wH3TKpALlw4)
 
 ---
 
