@@ -1,6 +1,6 @@
 # 🌟 Internship Onboarding Guide
 
-## Welcome aboard, Riya! 🎉  
+## Welcome aboard, Riya! 🎉
 Thrilled to have you join our **fully-remote internship** program.  
 
 ## 📅 Daily Routine (Wed–Tuesday, Week 1)
@@ -16,7 +16,17 @@ Thrilled to have you join our **fully-remote internship** program.
 ##--Day 2 
 - 🔗 **Learning Resources:** [DECOMPOSITION, ABSTRACTION, FUNCTIONS](https://www.youtube.com/watch?v=Qf6OVR8MLnU&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=7)
 - 🔗 **Learning Resources:** [DICTIONARIES](https://www.youtube.com/watch?v=lTgLOuaQsvk&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=14)
-- 🔗 **Learning Resources:** [Key Terminologies in Startup](https://www.youtube.com/watch?v=wH3TKpALlw4)
+
+##--Day 3
+- 🔗 **Learning Resources:** [RECURSION] (https://www.youtube.com/watch?v=Bbyp4VRbmyY&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=15)
+- 🔗 **Learning Resources:** [RECURSION ON NON- NUMERICS] (https://www.youtube.com/watch?v=2XxGplWqXVQ&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=16)
+- 🔗 **Learning Resources:** [Seed Funding Strategies] (https://www.youtube.com/watch?v=iR8XrqT7icY)
+
+##--Day 4
+- 🔗 **Learning Resources:** [PYTHON CLASSES] (https://www.youtube.com/watch?v=tsMrUdynbQQ&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=17)
+- 🔗 **Learning Resources:** [INHERITANCE] (https://www.youtube.com/watch?v=rgM7Z9BNm1s&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=19)
+- 🔗 **Learning Resources:** [FITNESS TRACKER - OOP ] (https://www.youtube.com/watch?v=-wyc5FwzkcM&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=20)
+- 🔗 **Learning Resources:**[Shark Tank - Raja Rani] (https://www.youtube.com/watch?v=9HXfP_Kfw7Y)
 
 ---
 
@@ -33,3 +43,4 @@ This is an **unpaid internship**.
 Conversion to a **paid role** will be **purely performance-based** 🚀  
 
 ---
+Welcome once again, and let’s make this an amazing learning journey together!  
