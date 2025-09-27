@@ -18,15 +18,15 @@ Thrilled to have you join our **fully-remote internship** program.
 - 🔗 **Learning Resources:** [DICTIONARIES](https://www.youtube.com/watch?v=lTgLOuaQsvk&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=14)
 
 ##--Day 3
-- 🔗 **Learning Resources:** [RECURSION] (https://www.youtube.com/watch?v=Bbyp4VRbmyY&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=15)
-- 🔗 **Learning Resources:** [RECURSION ON NON- NUMERICS] (https://www.youtube.com/watch?v=2XxGplWqXVQ&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=16)
-- 🔗 **Learning Resources:** [Seed Funding Strategies] (https://www.youtube.com/watch?v=iR8XrqT7icY)
+- 🔗 **Learning Resources:** [RECURSION](https://www.youtube.com/watch?v=Bbyp4VRbmyY&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=15)
+- 🔗 **Learning Resources:** [RECURSION ON NON- NUMERICS](https://www.youtube.com/watch?v=2XxGplWqXVQ&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=16)
+- 🔗 **Learning Resources:** [Seed Funding Strategies](https://www.youtube.com/watch?v=iR8XrqT7icY)
 
 ##--Day 4
-- 🔗 **Learning Resources:** [PYTHON CLASSES] (https://www.youtube.com/watch?v=tsMrUdynbQQ&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=17)
-- 🔗 **Learning Resources:** [INHERITANCE] (https://www.youtube.com/watch?v=rgM7Z9BNm1s&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=19)
-- 🔗 **Learning Resources:** [FITNESS TRACKER - OOP ] (https://www.youtube.com/watch?v=-wyc5FwzkcM&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=20)
-- 🔗 **Learning Resources:**[Shark Tank - Raja Rani] (https://www.youtube.com/watch?v=9HXfP_Kfw7Y)
+- 🔗 **Learning Resources:** [PYTHON CLASSES](https://www.youtube.com/watch?v=tsMrUdynbQQ&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=17)
+- 🔗 **Learning Resources:** [INHERITANCE](https://www.youtube.com/watch?v=rgM7Z9BNm1s&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=19)
+- 🔗 **Learning Resources:** [FITNESS TRACKER - OOP ](https://www.youtube.com/watch?v=-wyc5FwzkcM&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=20)
+- 🔗 **Learning Resources:**[Shark Tank - Raja Rani](https://www.youtube.com/watch?v=9HXfP_Kfw7Y)
 
 ---
 
