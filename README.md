@@ -28,6 +28,17 @@ Thrilled to have you join our **fully-remote internship** program.
 - 🔗 **Learning Resources:** [FITNESS TRACKER - OOP ](https://www.youtube.com/watch?v=-wyc5FwzkcM&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=20)
 - 🔗 **Learning Resources:**[Shark Tank - Raja Rani](https://www.youtube.com/watch?v=9HXfP_Kfw7Y)
 
+##--Day 5
+- 🔗 **Learning Resources:** [Introduction to Flask ](https://www.youtube.com/watch?v=j5wysXqaIV8&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5&index=4)
+- 🔗 **Learning Resources:** [Introduction to ORM ](https://www.youtube.com/watch?v=24Kf3v7kZyE&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5&index=6)
+
+##--Day 6
+- 🔗 **Learning Resources:** [Deploy to AWS ] (https://www.youtube.com/watch?v=DRWRq3ad0pI)
+- 🔗 **Learning Resources:** [How to Pitch WIS'22] (https://www.youtube.com/watch?v=YtUXCv0XaQE)
+- 🔗 **Learning Resources:** [Customer Churn Analysis] (https://www.youtube.com/watch?v=GVECbcKUio4)
+
+
+
 ---
 
 ## 📜 House Rules
